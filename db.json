@@ -2,13 +2,13 @@
  "locations":[
   {
    "key":"BCN",
-   "latitude":41.3818,
+   "latitude":51.3818,
    "longitude":2.1685,
    "name":"Barcelona"
   },
   {
    "key":"CAN",
-   "latitude":28.466667,
+   "latitude":38.466667,
    "longitude":-16.25,
    "name":"Canarias"
   } 
